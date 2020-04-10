@@ -1,2 +1,2 @@
 # Sharkb8
-Learning to code
+Coursera Github assignment
